@@ -9,6 +9,11 @@ recorded events from two Ingenious AI systems into one evidence schema:
 Exactly **two validated adapters** ship in v0.1.0. Unknown targets are rejected,
 and records missing required fields fail loudly instead of being guessed at.
 
+## Connects to
+
+- **Agent Auth Gateway** — https://authgateway.getingeniousai.com
+- **Agent Flight Recorder** — https://flightrecorder.getingeniousai.com
+
 ## Install
 
 ```bash
