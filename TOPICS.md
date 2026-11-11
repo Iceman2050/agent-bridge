@@ -1,0 +1,3 @@
+# Topics — agent-bridge (staged before creation, applied at birth, read back to verify)
+Research basis: topics live on Iceman2050/agent-shield (ai, ai-agents, ai-security, mcp, model-context-protocol, python, cli, security, cybersecurity) plus exact-match confirmed topics used by comparable MCP / gateway / observability tooling (mcp-server, policy-as-code, observability, evidence, developer-tools, automation, devtools).
+ai, ai-agents, ai-security, mcp, model-context-protocol, mcp-server, python, cli, developer-tools, devtools, policy-as-code, observability, evidence, security, cybersecurity, automation

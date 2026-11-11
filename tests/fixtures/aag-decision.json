@@ -1,0 +1,8 @@
+{
+  "id": "dec_001",
+  "agent_id": "demo-agent",
+  "action": "payments.refund",
+  "decision": "DENY",
+  "reason": "amount exceeds the agent spending limit",
+  "timestamp": "2026-11-10T00:00:00Z"
+}

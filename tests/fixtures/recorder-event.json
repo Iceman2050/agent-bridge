@@ -1,0 +1,7 @@
+{
+  "event_id": "evt_001",
+  "agent_id": "demo-agent",
+  "event_type": "tool.call.completed",
+  "summary": "tool call recorded",
+  "timestamp": "2026-11-10T00:00:01Z"
+}
